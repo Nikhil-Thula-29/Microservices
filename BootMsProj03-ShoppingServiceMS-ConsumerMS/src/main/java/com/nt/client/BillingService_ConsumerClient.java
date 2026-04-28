@@ -22,7 +22,7 @@ public class BillingService_ConsumerClient {
 	
 	public String getBillingInfo() {
 		//get loadbalancer instance through load balancing
-		ServiceInstance si=client.choose("Billing-Service");
+		ServiceInstance si=client.choose("Billing-Service"); //provider application name
 		
 		//get the URI of Provider MS
 		URI uri=si.getUri();
