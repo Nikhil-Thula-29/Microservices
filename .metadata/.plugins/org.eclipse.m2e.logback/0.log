@@ -2093,3 +2093,64 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2026-05-03 00:33:46,227 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2026-05-03 00:33:46,280 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2026-05-03 00:33:46,282 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj07-EmpServiceAPI-ForConfigServer-RefreshScope\src\test\resources
+2026-05-05 23:11:26,652 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2026-05-05 23:48:10,808 [Worker-36: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj01-MS-Publishing:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj08-MS-Actuators\pom.xml.
+2026-05-05 23:48:19,020 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-05 23:48:19,071 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-05 23:48:19,081 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj08-MS-Actuators\src\test\resources
+2026-05-05 23:49:45,627 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-05 23:49:45,648 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-05 23:49:45,651 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj08-MS-Actuators\src\test\resources
+2026-05-05 23:49:48,579 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-05 23:49:48,672 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-05 23:49:48,675 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj08-MS-Actuators\src\test\resources
+2026-05-05 23:50:32,803 [Worker-34: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj01-MS-Publishing:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj08-MS-Actuators\pom.xml.
+2026-05-05 23:50:36,191 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-05 23:50:36,193 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-05 23:50:36,202 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj08-MS-Actuators\src\test\resources
+2026-05-05 23:50:36,402 [Worker-35: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-05-05 23:50:37,089 [Worker-35: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj01-MS-Publishing:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj08-MS-Actuators\pom.xml.
+2026-05-05 23:50:38,671 [Worker-35: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BootMsProj08-MS-Actuators/src/main/java
+2026-05-05 23:50:38,672 [Worker-35: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj08-MS-Actuators/src/main/resources
+2026-05-05 23:50:38,673 [Worker-35: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj08-MS-Actuators/src/main/resources
+2026-05-05 23:50:38,673 [Worker-35: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BootMsProj08-MS-Actuators/src/test/java
+2026-05-05 23:50:38,675 [Worker-35: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj08-MS-Actuators/src/test/resources
+2026-05-05 23:50:39,592 [Worker-35: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 0.00 sec 
+2026-05-05 23:50:39,976 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-05 23:50:39,997 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-05 23:50:40,002 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj08-MS-Actuators\src\test\resources
+2026-05-05 23:51:16,697 [Worker-36: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-05-05 23:51:17,214 [Worker-36: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj01-MS-Publishing:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj08-MS-Actuators\pom.xml.
+2026-05-05 23:51:18,458 [Worker-36: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BootMsProj08-MS-Actuators/src/main/java
+2026-05-05 23:51:18,459 [Worker-36: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj08-MS-Actuators/src/main/resources
+2026-05-05 23:51:18,459 [Worker-36: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj08-MS-Actuators/src/main/resources
+2026-05-05 23:51:18,459 [Worker-36: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BootMsProj08-MS-Actuators/src/test/java
+2026-05-05 23:51:18,459 [Worker-36: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj08-MS-Actuators/src/test/resources
+2026-05-05 23:51:18,913 [Worker-36: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2026-05-05 23:51:19,290 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-05 23:51:19,307 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-05 23:51:19,311 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj08-MS-Actuators\src\test\resources
+2026-05-05 23:54:01,381 [Worker-28: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj01-R-DServer-EurekaServer:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj08-EurekaServer\pom.xml.
+2026-05-05 23:54:04,311 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-05 23:54:04,344 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-05 23:54:04,347 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj08-EurekaServer\src\test\resources
+2026-05-05 23:54:20,528 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-05 23:54:20,530 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-05 23:54:20,534 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj08-EurekaServer\src\test\resources
+2026-05-05 23:54:22,100 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-05 23:54:22,183 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-05 23:54:22,185 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj08-EurekaServer\src\test\resources
+2026-05-06 00:01:22,456 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-06 00:01:22,917 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-06 00:01:22,933 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj08-MS-Actuators\src\test\resources
+2026-05-06 00:01:49,293 [Worker-27: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-05-06 00:01:50,132 [Worker-27: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj01-MS-Publishing:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj08-MS-Actuators\pom.xml.
+2026-05-06 00:01:54,944 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BootMsProj08-MS-Actuators/src/main/java
+2026-05-06 00:01:54,944 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj08-MS-Actuators/src/main/resources
+2026-05-06 00:01:54,944 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj08-MS-Actuators/src/main/resources
+2026-05-06 00:01:54,945 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BootMsProj08-MS-Actuators/src/test/java
+2026-05-06 00:01:54,945 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj08-MS-Actuators/src/test/resources
+2026-05-06 00:01:56,536 [Worker-27: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 5.00 sec, update config takes 1.00 sec 
+2026-05-06 00:01:57,391 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-06 00:01:57,439 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-06 00:01:57,446 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj08-MS-Actuators\src\test\resources

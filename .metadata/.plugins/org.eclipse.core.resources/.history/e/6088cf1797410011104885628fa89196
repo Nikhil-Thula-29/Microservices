@@ -1,5 +1,0 @@
-spring.application.name=BootMsProj01-R-DServer-EurekaServer
-
-#Eureka server port number
-server.port=8761
-
