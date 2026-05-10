@@ -2154,3 +2154,1156 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2026-05-06 00:01:57,391 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2026-05-06 00:01:57,439 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2026-05-06 00:01:57,446 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj08-MS-Actuators\src\test\resources
+2026-05-06 22:55:48,001 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2026-05-07 00:08:14,000 [Worker-39: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj09-FallbackMethod:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj09-FallbackMethod\pom.xml.
+2026-05-07 00:08:21,603 [Worker-39: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BootMsProj09-FallbackMethod/src/main/java
+2026-05-07 00:08:21,605 [Worker-39: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-FallbackMethod/src/main/resources
+2026-05-07 00:08:21,619 [Worker-39: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-FallbackMethod/src/main/resources
+2026-05-07 00:08:21,629 [Worker-39: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BootMsProj09-FallbackMethod/src/test/java
+2026-05-07 00:08:21,630 [Worker-39: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-FallbackMethod/src/test/resources
+2026-05-07 00:08:26,861 [Worker-39: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 22 sec
+2026-05-07 00:08:26,880 [Worker-39: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-05-07 00:08:27,663 [Worker-39: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj09-FallbackMethod:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj09-FallbackMethod\pom.xml.
+2026-05-07 00:08:28,562 [Worker-39: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BootMsProj09-FallbackMethod/src/main/java
+2026-05-07 00:08:28,563 [Worker-39: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-FallbackMethod/src/main/resources
+2026-05-07 00:08:28,563 [Worker-39: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-FallbackMethod/src/main/resources
+2026-05-07 00:08:28,563 [Worker-39: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BootMsProj09-FallbackMethod/src/test/java
+2026-05-07 00:08:28,563 [Worker-39: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-FallbackMethod/src/test/resources
+2026-05-07 00:08:30,069 [Worker-39: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2026-05-07 00:08:33,759 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-07 00:08:33,801 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-07 00:08:33,814 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-FallbackMethod\src\test\resources
+2026-05-07 00:09:51,726 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-parent/2.2.10.RELEASE/spring-boot-starter-parent-2.2.10.RELEASE.pom
+2026-05-07 00:09:51,736 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-parent/2.2.10.RELEASE/spring-boot-starter-parent-2.2.10.RELEASE.pom
+2026-05-07 00:09:51,786 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/2.2.10.RELEASE/spring-boot-dependencies-2.2.10.RELEASE.pom
+2026-05-07 00:09:51,797 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/2.2.10.RELEASE/spring-boot-dependencies-2.2.10.RELEASE.pom
+2026-05-07 00:09:51,896 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.10.5/jackson-bom-2.10.5.pom
+2026-05-07 00:09:51,900 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.10.5/jackson-bom-2.10.5.pom
+2026-05-07 00:09:51,955 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.10/jackson-parent-2.10.pom
+2026-05-07 00:09:51,963 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.10/jackson-parent-2.10.pom
+2026-05-07 00:09:52,024 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/micrometer/micrometer-bom/1.3.14/micrometer-bom-1.3.14.pom
+2026-05-07 00:09:52,028 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/micrometer/micrometer-bom/1.3.14/micrometer-bom-1.3.14.pom
+2026-05-07 00:09:52,083 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-bom/4.1.52.Final/netty-bom-4.1.52.Final.pom
+2026-05-07 00:09:52,087 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-bom/4.1.52.Final/netty-bom-4.1.52.Final.pom
+2026-05-07 00:09:52,137 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/reactor-bom/Dysprosium-SR12/reactor-bom-Dysprosium-SR12.pom
+2026-05-07 00:09:52,141 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/reactor-bom/Dysprosium-SR12/reactor-bom-Dysprosium-SR12.pom
+2026-05-07 00:09:52,196 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/rsocket/rsocket-bom/1.0.2/rsocket-bom-1.0.2.pom
+2026-05-07 00:09:52,200 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/rsocket/rsocket-bom/1.0.2/rsocket-bom-1.0.2.pom
+2026-05-07 00:09:52,250 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-bom/2.12.1/log4j-bom-2.12.1.pom
+2026-05-07 00:09:52,253 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-bom/2.12.1/log4j-bom-2.12.1.pom
+2026-05-07 00:09:52,324 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-bom/2.5.13/groovy-bom-2.5.13.pom
+2026-05-07 00:09:52,328 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-bom/2.5.13/groovy-bom-2.5.13.pom
+2026-05-07 00:09:52,390 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-bom/9.4.31.v20200723/jetty-bom-9.4.31.v20200723.pom
+2026-05-07 00:09:52,393 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-bom/9.4.31.v20200723/jetty-bom-9.4.31.v20200723.pom
+2026-05-07 00:09:52,446 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/jersey-bom/2.29.1/jersey-bom-2.29.1.pom
+2026-05-07 00:09:52,452 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/jersey-bom/2.29.1/jersey-bom-2.29.1.pom
+2026-05-07 00:09:52,530 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-bom/1.3.72/kotlin-bom-1.3.72.pom
+2026-05-07 00:09:52,533 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-bom/1.3.72/kotlin-bom-1.3.72.pom
+2026-05-07 00:09:52,583 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-bom/1.3.8/kotlinx-coroutines-bom-1.3.8.pom
+2026-05-07 00:09:52,586 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-bom/1.3.8/kotlinx-coroutines-bom-1.3.8.pom
+2026-05-07 00:09:52,637 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.5.2/junit-bom-5.5.2.pom
+2026-05-07 00:09:52,640 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.5.2/junit-bom-5.5.2.pom
+2026-05-07 00:09:52,713 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/5.2.9.RELEASE/spring-framework-bom-5.2.9.RELEASE.pom
+2026-05-07 00:09:52,716 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/5.2.9.RELEASE/spring-framework-bom-5.2.9.RELEASE.pom
+2026-05-07 00:09:52,771 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-releasetrain/Moore-SR10/spring-data-releasetrain-Moore-SR10.pom
+2026-05-07 00:09:52,776 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-releasetrain/Moore-SR10/spring-data-releasetrain-Moore-SR10.pom
+2026-05-07 00:09:52,826 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/build/spring-data-build/2.2.10.RELEASE/spring-data-build-2.2.10.RELEASE.pom
+2026-05-07 00:09:52,829 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/build/spring-data-build/2.2.10.RELEASE/spring-data-build-2.2.10.RELEASE.pom
+2026-05-07 00:09:52,887 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-bom/5.2.8.RELEASE/spring-integration-bom-5.2.8.RELEASE.pom
+2026-05-07 00:09:52,891 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-bom/5.2.8.RELEASE/spring-integration-bom-5.2.8.RELEASE.pom
+2026-05-07 00:09:52,942 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-bom/5.2.6.RELEASE/spring-security-bom-5.2.6.RELEASE.pom
+2026-05-07 00:09:52,946 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-bom/5.2.6.RELEASE/spring-security-bom-5.2.6.RELEASE.pom
+2026-05-07 00:09:52,994 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/session/spring-session-bom/Corn-SR4/spring-session-bom-Corn-SR4.pom
+2026-05-07 00:09:52,998 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/session/spring-session-bom/Corn-SR4/spring-session-bom-Corn-SR4.pom
+2026-05-07 00:10:01,088 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-maven-plugin/2.2.10.RELEASE/spring-boot-maven-plugin-2.2.10.RELEASE.pom
+2026-05-07 00:10:01,093 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-maven-plugin/2.2.10.RELEASE/spring-boot-maven-plugin-2.2.10.RELEASE.pom
+2026-05-07 00:10:01,154 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-tools/2.2.10.RELEASE/spring-boot-tools-2.2.10.RELEASE.pom
+2026-05-07 00:10:01,157 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-tools/2.2.10.RELEASE/spring-boot-tools-2.2.10.RELEASE.pom
+2026-05-07 00:10:01,207 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-parent/2.2.10.RELEASE/spring-boot-parent-2.2.10.RELEASE.pom
+2026-05-07 00:10:01,212 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-parent/2.2.10.RELEASE/spring-boot-parent-2.2.10.RELEASE.pom
+2026-05-07 00:10:01,390 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-maven-plugin/2.2.10.RELEASE/spring-boot-maven-plugin-2.2.10.RELEASE.jar
+2026-05-07 00:10:01,518 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-maven-plugin/2.2.10.RELEASE/spring-boot-maven-plugin-2.2.10.RELEASE.jar
+2026-05-07 00:10:01,812 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/3.1.0/maven-resources-plugin-3.1.0.jar
+2026-05-07 00:10:01,817 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/3.1.0/maven-resources-plugin-3.1.0.jar
+2026-05-07 00:10:02,006 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.8.1/maven-compiler-plugin-3.8.1.jar
+2026-05-07 00:10:02,011 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.8.1/maven-compiler-plugin-3.8.1.jar
+2026-05-07 00:10:02,178 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/3.1.2/maven-jar-plugin-3.1.2.jar
+2026-05-07 00:10:02,182 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/3.1.2/maven-jar-plugin-3.1.2.jar
+2026-05-07 00:10:02,637 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.8.2/maven-site-plugin-3.8.2.jar
+2026-05-07 00:10:02,657 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.8.2/maven-site-plugin-3.8.2.jar
+2026-05-07 00:10:02,723 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.8.1/maven-compiler-plugin-3.8.1.pom
+2026-05-07 00:10:02,730 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.8.1/maven-compiler-plugin-3.8.1.pom
+2026-05-07 00:10:02,798 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/33/maven-plugins-33.pom
+2026-05-07 00:10:02,804 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/33/maven-plugins-33.pom
+2026-05-07 00:10:05,478 [Worker-40: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj09-FallbackMethod:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj09-FallbackMethod\pom.xml.
+2026-05-07 00:10:05,561 [Worker-40: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj01-R-DServer-EurekaServer:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj01-R-DServer-EurekaServer\pom.xml.
+2026-05-07 00:10:06,591 [Worker-40: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj01-MS-Publishing:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj01-MS-Publishing\pom.xml.
+2026-05-07 00:10:06,768 [Worker-40: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj01-R-DServer-EurekaServer:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj02-EurekaServer\pom.xml.
+2026-05-07 00:10:06,952 [Worker-40: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj02-BillingService-ProviderMS:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj02-BillingService-ProviderMS\pom.xml.
+2026-05-07 00:10:07,084 [Worker-40: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj02-ShoppingServiceMS-ConsumerMS:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj02-ShoppingServiceMS-ConsumerMS\pom.xml.
+2026-05-07 00:10:07,203 [Worker-40: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj01-R-DServer-EurekaServer:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj03-EurekaServer\pom.xml.
+2026-05-07 00:10:07,356 [Worker-40: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj02-BillingService-ProviderMS:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj03-BillingService-ProviderMS\pom.xml.
+2026-05-07 00:10:07,481 [Worker-40: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj02-ShoppingServiceMS-ConsumerMS:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj03-ShoppingServiceMS-ConsumerMS\pom.xml.
+2026-05-07 00:10:07,631 [Worker-40: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj02-BillingService-ProviderMS:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj04-BillingService-ProviderMS-FeignClient\pom.xml.
+2026-05-07 00:10:07,836 [Worker-40: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj01-R-DServer-EurekaServer:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj04-EurekaServer\pom.xml.
+2026-05-07 00:10:08,111 [Worker-40: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj02-ShoppingServiceMS-ConsumerMS:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj04-ShoppingServiceMS-ConsumerMS-FeignClient\pom.xml.
+2026-05-07 00:10:08,414 [Worker-40: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj05-EurekaServer-ForConfigServer:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj05-EurekaServer-ForConfigServer\pom.xml.
+2026-05-07 00:10:08,568 [Worker-40: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj05-ConfigServer:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj05-ConfigServer\pom.xml.
+2026-05-07 00:10:08,716 [Worker-40: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj05-EmpServiceAPI-ForConfigServer:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj05-EmpServiceAPI-ForConfigServer\pom.xml.
+2026-05-07 00:10:08,838 [Worker-40: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj05-CustomerAPI-ForConfigServer:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj05-CustomerAPI-ForConfigServer\pom.xml.
+2026-05-07 00:10:08,969 [Worker-40: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj05-ConfigServer:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj06-ConfigServer-NativeConfigFile\pom.xml.
+2026-05-07 00:10:09,067 [Worker-40: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj05-CustomerAPI-ForConfigServer:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj06-CustomerAPI-ForConfigServer-NativeConfigFile\pom.xml.
+2026-05-07 00:10:09,175 [Worker-40: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj05-EmpServiceAPI-ForConfigServer:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj06-EmpServiceAPI-ForConfigServer-NativeConfigFile\pom.xml.
+2026-05-07 00:10:09,284 [Worker-40: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj05-EurekaServer-ForConfigServer:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj06-EurekaServer-ForConfigServer-NativeConfigFile\pom.xml.
+2026-05-07 00:10:09,420 [Worker-40: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj05-ConfigServer:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj07-ConfigServer-RefreshScope\pom.xml.
+2026-05-07 00:10:09,531 [Worker-40: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj05-EurekaServer-ForConfigServer:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj07-EurekaServer-ForConfigServer-RefreshScope\pom.xml.
+2026-05-07 00:10:09,706 [Worker-40: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj05-EmpServiceAPI-ForConfigServer:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj07-EmpServiceAPI-ForConfigServer-RefreshScope\pom.xml.
+2026-05-07 00:10:09,866 [Worker-40: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj05-CustomerAPI-ForConfigServer:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj07-CustomerAPI-ForConfigServer-RefreshScope\pom.xml.
+2026-05-07 00:10:10,068 [Worker-40: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj01-R-DServer-EurekaServer:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj08-EurekaServer\pom.xml.
+2026-05-07 00:10:10,260 [Worker-40: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj01-MS-Publishing:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj08-MS-Actuators\pom.xml.
+2026-05-07 00:10:27,332 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/3.1.0/maven-resources-plugin-3.1.0.pom
+2026-05-07 00:10:27,336 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/3.1.0/maven-resources-plugin-3.1.0.pom
+2026-05-07 00:10:27,453 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/3.1.2/maven-jar-plugin-3.1.2.pom
+2026-05-07 00:10:27,457 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/3.1.2/maven-jar-plugin-3.1.2.pom
+2026-05-07 00:10:28,689 [Worker-41: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-05-07 00:10:28,867 [Worker-41: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj09-FallbackMethod:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj09-FallbackMethod\pom.xml.
+2026-05-07 00:10:30,237 [Worker-41: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-FallbackMethod/src/main/resources
+2026-05-07 00:10:30,238 [Worker-41: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-FallbackMethod/src/main/resources
+2026-05-07 00:10:30,238 [Worker-41: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-FallbackMethod/src/test/resources
+2026-05-07 00:10:30,524 [Worker-41: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 1.00 sec 
+2026-05-07 00:10:30,541 [Worker-41: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-05-07 00:10:30,696 [Worker-41: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj09-FallbackMethod:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj09-FallbackMethod\pom.xml.
+2026-05-07 00:10:30,706 [Worker-41: Updating Maven Project] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Could not read maven project
+org.eclipse.core.runtime.CoreException: Could not read maven project
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$3(MavenImpl.java:415)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:228)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readProject(MavenImpl.java:405)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.lambda$4(AbstractMavenArchiverConfigurator.java:576)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.loadParentHierarchy(AbstractMavenArchiverConfigurator.java:568)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.generateManifest(AbstractMavenArchiverConfigurator.java:365)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.mavenProjectChanged(AbstractMavenArchiverConfigurator.java:228)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.mavenProjectChanged(AbstractMavenArchiverConfigurator.java:220)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.mavenProjectChanged(ProjectConfigurationManager.java:882)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1040)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:320)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:387)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$3(ProjectConfigurationManager.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1097)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:338)
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:80)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.project.ProjectBuildingException: 1 problem was encountered while building the effective model
+[FATAL] Non-readable POM F:\Microservices\BootMsProj09-FallbackMethod: F:\Microservices\BootMsProj09-FallbackMethod (Access is denied) @ 
+ for project  at F:\Microservices\BootMsProj09-FallbackMethod
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:180)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:123)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$3(MavenImpl.java:413)
+	... 25 common frames omitted
+Caused by: org.apache.maven.model.building.ModelBuildingException: 1 problem was encountered while building the effective model
+[FATAL] Non-readable POM F:\Microservices\BootMsProj09-FallbackMethod: F:\Microservices\BootMsProj09-FallbackMethod (Access is denied) @ 
+
+	at org.apache.maven.model.building.DefaultModelProblemCollector.newModelBuildingException(DefaultModelProblemCollector.java:176)
+	at org.apache.maven.model.building.DefaultModelBuilder.readModel(DefaultModelBuilder.java:600)
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:257)
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:243)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:176)
+	... 27 common frames omitted
+2026-05-07 00:10:30,811 [Worker-41: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-FallbackMethod/src/main/resources
+2026-05-07 00:10:30,812 [Worker-41: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-FallbackMethod/src/main/resources
+2026-05-07 00:10:30,812 [Worker-41: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-FallbackMethod/src/test/resources
+2026-05-07 00:10:30,934 [Worker-41: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2026-05-07 00:10:57,697 [Worker-43: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-05-07 00:10:57,807 [Worker-43: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj09-FallbackMethod:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj09-FallbackMethod\pom.xml.
+2026-05-07 00:10:57,812 [Worker-43: Updating Maven Project] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Could not read maven project
+org.eclipse.core.runtime.CoreException: Could not read maven project
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$3(MavenImpl.java:415)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:228)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readProject(MavenImpl.java:405)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.lambda$4(AbstractMavenArchiverConfigurator.java:576)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.loadParentHierarchy(AbstractMavenArchiverConfigurator.java:568)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.generateManifest(AbstractMavenArchiverConfigurator.java:365)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.mavenProjectChanged(AbstractMavenArchiverConfigurator.java:228)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.mavenProjectChanged(AbstractMavenArchiverConfigurator.java:220)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.mavenProjectChanged(ProjectConfigurationManager.java:882)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1040)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:320)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:387)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$3(ProjectConfigurationManager.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1097)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:338)
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:80)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.project.ProjectBuildingException: 1 problem was encountered while building the effective model
+[FATAL] Non-readable POM F:\Microservices\BootMsProj09-FallbackMethod: F:\Microservices\BootMsProj09-FallbackMethod (Access is denied) @ 
+ for project  at F:\Microservices\BootMsProj09-FallbackMethod
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:180)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:123)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$3(MavenImpl.java:413)
+	... 25 common frames omitted
+Caused by: org.apache.maven.model.building.ModelBuildingException: 1 problem was encountered while building the effective model
+[FATAL] Non-readable POM F:\Microservices\BootMsProj09-FallbackMethod: F:\Microservices\BootMsProj09-FallbackMethod (Access is denied) @ 
+
+	at org.apache.maven.model.building.DefaultModelProblemCollector.newModelBuildingException(DefaultModelProblemCollector.java:176)
+	at org.apache.maven.model.building.DefaultModelBuilder.readModel(DefaultModelBuilder.java:600)
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:257)
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:243)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:176)
+	... 27 common frames omitted
+2026-05-07 00:10:57,854 [Worker-43: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-FallbackMethod/src/main/resources
+2026-05-07 00:10:57,855 [Worker-43: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-FallbackMethod/src/main/resources
+2026-05-07 00:10:57,855 [Worker-43: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-FallbackMethod/src/test/resources
+2026-05-07 00:10:58,002 [Worker-43: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2026-05-07 00:11:36,546 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-05-07 00:11:36,627 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj09-FallbackMethod:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj09-FallbackMethod\pom.xml.
+2026-05-07 00:11:36,631 [Worker-40: Updating Maven Project] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Could not read maven project
+org.eclipse.core.runtime.CoreException: Could not read maven project
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$3(MavenImpl.java:415)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:228)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readProject(MavenImpl.java:405)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.lambda$4(AbstractMavenArchiverConfigurator.java:576)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.loadParentHierarchy(AbstractMavenArchiverConfigurator.java:568)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.generateManifest(AbstractMavenArchiverConfigurator.java:365)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.mavenProjectChanged(AbstractMavenArchiverConfigurator.java:228)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.mavenProjectChanged(AbstractMavenArchiverConfigurator.java:220)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.mavenProjectChanged(ProjectConfigurationManager.java:882)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1040)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:320)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:387)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$3(ProjectConfigurationManager.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1097)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:338)
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:80)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.project.ProjectBuildingException: 1 problem was encountered while building the effective model
+[FATAL] Non-readable POM F:\Microservices\BootMsProj09-FallbackMethod: F:\Microservices\BootMsProj09-FallbackMethod (Access is denied) @ 
+ for project  at F:\Microservices\BootMsProj09-FallbackMethod
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:180)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:123)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$3(MavenImpl.java:413)
+	... 25 common frames omitted
+Caused by: org.apache.maven.model.building.ModelBuildingException: 1 problem was encountered while building the effective model
+[FATAL] Non-readable POM F:\Microservices\BootMsProj09-FallbackMethod: F:\Microservices\BootMsProj09-FallbackMethod (Access is denied) @ 
+
+	at org.apache.maven.model.building.DefaultModelProblemCollector.newModelBuildingException(DefaultModelProblemCollector.java:176)
+	at org.apache.maven.model.building.DefaultModelBuilder.readModel(DefaultModelBuilder.java:600)
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:257)
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:243)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:176)
+	... 27 common frames omitted
+2026-05-07 00:11:36,660 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-FallbackMethod/src/main/resources
+2026-05-07 00:11:36,661 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-FallbackMethod/src/main/resources
+2026-05-07 00:11:36,661 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-FallbackMethod/src/test/resources
+2026-05-07 00:11:36,727 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2026-05-07 00:12:18,378 [Worker-43: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-05-07 00:12:18,484 [Worker-43: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj09-FallbackMethod:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj09-FallbackMethod\pom.xml.
+2026-05-07 00:12:18,490 [Worker-43: Updating Maven Project] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Could not read maven project
+org.eclipse.core.runtime.CoreException: Could not read maven project
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$3(MavenImpl.java:415)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:228)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readProject(MavenImpl.java:405)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.lambda$4(AbstractMavenArchiverConfigurator.java:576)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.loadParentHierarchy(AbstractMavenArchiverConfigurator.java:568)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.generateManifest(AbstractMavenArchiverConfigurator.java:365)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.mavenProjectChanged(AbstractMavenArchiverConfigurator.java:228)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.mavenProjectChanged(AbstractMavenArchiverConfigurator.java:220)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.mavenProjectChanged(ProjectConfigurationManager.java:882)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1040)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:320)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:387)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$3(ProjectConfigurationManager.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1097)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:338)
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:80)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.project.ProjectBuildingException: 1 problem was encountered while building the effective model
+[FATAL] Non-readable POM F:\Microservices\BootMsProj09-FallbackMethod: F:\Microservices\BootMsProj09-FallbackMethod (Access is denied) @ 
+ for project  at F:\Microservices\BootMsProj09-FallbackMethod
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:180)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:123)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$3(MavenImpl.java:413)
+	... 25 common frames omitted
+Caused by: org.apache.maven.model.building.ModelBuildingException: 1 problem was encountered while building the effective model
+[FATAL] Non-readable POM F:\Microservices\BootMsProj09-FallbackMethod: F:\Microservices\BootMsProj09-FallbackMethod (Access is denied) @ 
+
+	at org.apache.maven.model.building.DefaultModelProblemCollector.newModelBuildingException(DefaultModelProblemCollector.java:176)
+	at org.apache.maven.model.building.DefaultModelBuilder.readModel(DefaultModelBuilder.java:600)
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:257)
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:243)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:176)
+	... 27 common frames omitted
+2026-05-07 00:12:18,529 [Worker-43: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-FallbackMethod/src/main/resources
+2026-05-07 00:12:18,530 [Worker-43: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-FallbackMethod/src/main/resources
+2026-05-07 00:12:18,530 [Worker-43: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-FallbackMethod/src/test/resources
+2026-05-07 00:12:18,748 [Worker-43: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2026-05-07 00:13:04,161 [Worker-42: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-05-07 00:13:04,248 [Worker-42: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj09-FallbackMethod:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj09-FallbackMethod\pom.xml.
+2026-05-07 00:13:04,253 [Worker-42: Updating Maven Project] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Could not read maven project
+org.eclipse.core.runtime.CoreException: Could not read maven project
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$3(MavenImpl.java:415)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:228)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readProject(MavenImpl.java:405)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.lambda$4(AbstractMavenArchiverConfigurator.java:576)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.loadParentHierarchy(AbstractMavenArchiverConfigurator.java:568)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.generateManifest(AbstractMavenArchiverConfigurator.java:365)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.mavenProjectChanged(AbstractMavenArchiverConfigurator.java:228)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.mavenProjectChanged(AbstractMavenArchiverConfigurator.java:220)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.mavenProjectChanged(ProjectConfigurationManager.java:882)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1040)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:320)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:387)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$3(ProjectConfigurationManager.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1097)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:338)
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:80)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.project.ProjectBuildingException: 1 problem was encountered while building the effective model
+[FATAL] Non-readable POM F:\Microservices\BootMsProj09-FallbackMethod: F:\Microservices\BootMsProj09-FallbackMethod (Access is denied) @ 
+ for project  at F:\Microservices\BootMsProj09-FallbackMethod
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:180)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:123)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$3(MavenImpl.java:413)
+	... 25 common frames omitted
+Caused by: org.apache.maven.model.building.ModelBuildingException: 1 problem was encountered while building the effective model
+[FATAL] Non-readable POM F:\Microservices\BootMsProj09-FallbackMethod: F:\Microservices\BootMsProj09-FallbackMethod (Access is denied) @ 
+
+	at org.apache.maven.model.building.DefaultModelProblemCollector.newModelBuildingException(DefaultModelProblemCollector.java:176)
+	at org.apache.maven.model.building.DefaultModelBuilder.readModel(DefaultModelBuilder.java:600)
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:257)
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:243)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:176)
+	... 27 common frames omitted
+2026-05-07 00:13:04,282 [Worker-42: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-FallbackMethod/src/main/resources
+2026-05-07 00:13:04,282 [Worker-42: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-FallbackMethod/src/main/resources
+2026-05-07 00:13:04,282 [Worker-42: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-FallbackMethod/src/test/resources
+2026-05-07 00:13:04,369 [Worker-42: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2026-05-07 00:13:49,754 [Worker-38: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-05-07 00:13:49,844 [Worker-38: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj09-FallbackMethod:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj09-FallbackMethod\pom.xml.
+2026-05-07 00:13:49,847 [Worker-38: Updating Maven Project] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Could not read maven project
+org.eclipse.core.runtime.CoreException: Could not read maven project
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$3(MavenImpl.java:415)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:228)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readProject(MavenImpl.java:405)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.lambda$4(AbstractMavenArchiverConfigurator.java:576)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.loadParentHierarchy(AbstractMavenArchiverConfigurator.java:568)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.generateManifest(AbstractMavenArchiverConfigurator.java:365)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.mavenProjectChanged(AbstractMavenArchiverConfigurator.java:228)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.mavenProjectChanged(AbstractMavenArchiverConfigurator.java:220)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.mavenProjectChanged(ProjectConfigurationManager.java:882)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1040)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:320)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:387)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$3(ProjectConfigurationManager.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1097)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:338)
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:80)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.project.ProjectBuildingException: 1 problem was encountered while building the effective model
+[FATAL] Non-readable POM F:\Microservices\BootMsProj09-FallbackMethod: F:\Microservices\BootMsProj09-FallbackMethod (Access is denied) @ 
+ for project  at F:\Microservices\BootMsProj09-FallbackMethod
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:180)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:123)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$3(MavenImpl.java:413)
+	... 25 common frames omitted
+Caused by: org.apache.maven.model.building.ModelBuildingException: 1 problem was encountered while building the effective model
+[FATAL] Non-readable POM F:\Microservices\BootMsProj09-FallbackMethod: F:\Microservices\BootMsProj09-FallbackMethod (Access is denied) @ 
+
+	at org.apache.maven.model.building.DefaultModelProblemCollector.newModelBuildingException(DefaultModelProblemCollector.java:176)
+	at org.apache.maven.model.building.DefaultModelBuilder.readModel(DefaultModelBuilder.java:600)
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:257)
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:243)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:176)
+	... 27 common frames omitted
+2026-05-07 00:13:49,882 [Worker-38: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-FallbackMethod/src/main/resources
+2026-05-07 00:13:49,882 [Worker-38: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-FallbackMethod/src/main/resources
+2026-05-07 00:13:49,882 [Worker-38: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-FallbackMethod/src/test/resources
+2026-05-07 00:13:49,973 [Worker-38: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2026-05-07 00:14:03,296 [Worker-39: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-05-07 00:14:03,385 [Worker-39: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj09-FallbackMethod:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj09-FallbackMethod\pom.xml.
+2026-05-07 00:14:03,390 [Worker-39: Updating Maven Project] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Could not read maven project
+org.eclipse.core.runtime.CoreException: Could not read maven project
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$3(MavenImpl.java:415)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:228)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readProject(MavenImpl.java:405)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.lambda$4(AbstractMavenArchiverConfigurator.java:576)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.loadParentHierarchy(AbstractMavenArchiverConfigurator.java:568)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.generateManifest(AbstractMavenArchiverConfigurator.java:365)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.mavenProjectChanged(AbstractMavenArchiverConfigurator.java:228)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.mavenProjectChanged(AbstractMavenArchiverConfigurator.java:220)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.mavenProjectChanged(ProjectConfigurationManager.java:882)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1040)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:320)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:387)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$3(ProjectConfigurationManager.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1097)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:338)
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:80)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.project.ProjectBuildingException: 1 problem was encountered while building the effective model
+[FATAL] Non-readable POM F:\Microservices\BootMsProj09-FallbackMethod: F:\Microservices\BootMsProj09-FallbackMethod (Access is denied) @ 
+ for project  at F:\Microservices\BootMsProj09-FallbackMethod
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:180)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:123)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$3(MavenImpl.java:413)
+	... 25 common frames omitted
+Caused by: org.apache.maven.model.building.ModelBuildingException: 1 problem was encountered while building the effective model
+[FATAL] Non-readable POM F:\Microservices\BootMsProj09-FallbackMethod: F:\Microservices\BootMsProj09-FallbackMethod (Access is denied) @ 
+
+	at org.apache.maven.model.building.DefaultModelProblemCollector.newModelBuildingException(DefaultModelProblemCollector.java:176)
+	at org.apache.maven.model.building.DefaultModelBuilder.readModel(DefaultModelBuilder.java:600)
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:257)
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:243)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:176)
+	... 27 common frames omitted
+2026-05-07 00:14:03,422 [Worker-39: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-FallbackMethod/src/main/resources
+2026-05-07 00:14:03,423 [Worker-39: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-FallbackMethod/src/main/resources
+2026-05-07 00:14:03,423 [Worker-39: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-FallbackMethod/src/test/resources
+2026-05-07 00:14:03,501 [Worker-39: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2026-05-07 00:26:31,348 [Worker-40: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj09-FallbackMethodWithVersion2.0:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj09-FallbackMethodWithVersion2.0\pom.xml.
+2026-05-07 00:26:34,253 [Worker-40: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BootMsProj09-FallbackMethodWithVersion2.0/src/main/java
+2026-05-07 00:26:34,254 [Worker-40: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-FallbackMethodWithVersion2.0/src/main/resources
+2026-05-07 00:26:34,263 [Worker-40: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-FallbackMethodWithVersion2.0/src/main/resources
+2026-05-07 00:26:34,274 [Worker-40: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BootMsProj09-FallbackMethodWithVersion2.0/src/test/java
+2026-05-07 00:26:34,274 [Worker-40: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-FallbackMethodWithVersion2.0/src/test/resources
+2026-05-07 00:26:34,736 [Worker-40: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2026-05-07 00:26:34,742 [Worker-40: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-05-07 00:26:35,642 [Worker-40: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj09-FallbackMethodWithVersion2.0:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj09-FallbackMethodWithVersion2.0\pom.xml.
+2026-05-07 00:26:36,566 [Worker-40: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BootMsProj09-FallbackMethodWithVersion2.0/src/main/java
+2026-05-07 00:26:36,566 [Worker-40: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-FallbackMethodWithVersion2.0/src/main/resources
+2026-05-07 00:26:36,566 [Worker-40: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-FallbackMethodWithVersion2.0/src/main/resources
+2026-05-07 00:26:36,567 [Worker-40: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BootMsProj09-FallbackMethodWithVersion2.0/src/test/java
+2026-05-07 00:26:36,567 [Worker-40: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-FallbackMethodWithVersion2.0/src/test/resources
+2026-05-07 00:26:36,903 [Worker-40: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2026-05-07 00:26:38,277 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-07 00:26:38,297 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-07 00:26:38,301 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-FallbackMethodWithVersion2.0\src\test\resources
+2026-05-07 00:27:40,425 [Worker-49: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj09-FallbackMethodWithVersion2.0:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj09-FallbackMethodWithVersion2.0\pom.xml.
+2026-05-07 00:27:40,549 [Worker-43: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-05-07 00:27:40,635 [Worker-43: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj09-FallbackMethodWithVersion2.0:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj09-FallbackMethodWithVersion2.0\pom.xml.
+2026-05-07 00:27:40,870 [Worker-43: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-FallbackMethodWithVersion2.0/src/main/resources
+2026-05-07 00:27:40,870 [Worker-43: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-FallbackMethodWithVersion2.0/src/main/resources
+2026-05-07 00:27:40,871 [Worker-43: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-FallbackMethodWithVersion2.0/src/test/resources
+2026-05-07 00:27:40,996 [Worker-43: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2026-05-07 00:27:47,344 [Worker-48: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj09-FallbackMethodWithVersion2.0:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj09-FallbackMethodWithVersion2.0\pom.xml.
+2026-05-07 00:27:47,421 [Worker-48: Building] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Could not read maven project
+org.eclipse.core.runtime.CoreException: Could not read maven project
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$3(MavenImpl.java:415)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:228)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readProject(MavenImpl.java:405)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.lambda$4(AbstractMavenArchiverConfigurator.java:576)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.loadParentHierarchy(AbstractMavenArchiverConfigurator.java:568)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.generateManifest(AbstractMavenArchiverConfigurator.java:365)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.mavenProjectChanged(AbstractMavenArchiverConfigurator.java:228)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.mavenProjectChanged(AbstractMavenArchiverConfigurator.java:220)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.mavenProjectChanged(ProjectConfigurationManager.java:882)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1040)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:320)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1079)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.project.ProjectBuildingException: 1 problem was encountered while building the effective model
+[FATAL] Non-readable POM F:\Microservices\BootMsProj09-FallbackMethodWithVersion2.0: F:\Microservices\BootMsProj09-FallbackMethodWithVersion2.0 (Access is denied) @ 
+ for project  at F:\Microservices\BootMsProj09-FallbackMethodWithVersion2.0
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:180)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:123)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$3(MavenImpl.java:413)
+	... 35 common frames omitted
+Caused by: org.apache.maven.model.building.ModelBuildingException: 1 problem was encountered while building the effective model
+[FATAL] Non-readable POM F:\Microservices\BootMsProj09-FallbackMethodWithVersion2.0: F:\Microservices\BootMsProj09-FallbackMethodWithVersion2.0 (Access is denied) @ 
+
+	at org.apache.maven.model.building.DefaultModelProblemCollector.newModelBuildingException(DefaultModelProblemCollector.java:176)
+	at org.apache.maven.model.building.DefaultModelBuilder.readModel(DefaultModelBuilder.java:600)
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:257)
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:243)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:176)
+	... 37 common frames omitted
+2026-05-07 00:27:57,082 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-05-07 00:27:57,171 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj09-FallbackMethodWithVersion2.0:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj09-FallbackMethodWithVersion2.0\pom.xml.
+2026-05-07 00:27:57,175 [Worker-40: Updating Maven Project] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Could not read maven project
+org.eclipse.core.runtime.CoreException: Could not read maven project
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$3(MavenImpl.java:415)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:228)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readProject(MavenImpl.java:405)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.lambda$4(AbstractMavenArchiverConfigurator.java:576)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.loadParentHierarchy(AbstractMavenArchiverConfigurator.java:568)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.generateManifest(AbstractMavenArchiverConfigurator.java:365)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.mavenProjectChanged(AbstractMavenArchiverConfigurator.java:228)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.mavenProjectChanged(AbstractMavenArchiverConfigurator.java:220)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.mavenProjectChanged(ProjectConfigurationManager.java:882)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1040)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:320)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:387)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$3(ProjectConfigurationManager.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1097)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:338)
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:80)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.project.ProjectBuildingException: 1 problem was encountered while building the effective model
+[FATAL] Non-readable POM F:\Microservices\BootMsProj09-FallbackMethodWithVersion2.0: F:\Microservices\BootMsProj09-FallbackMethodWithVersion2.0 (Access is denied) @ 
+ for project  at F:\Microservices\BootMsProj09-FallbackMethodWithVersion2.0
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:180)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:123)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$3(MavenImpl.java:413)
+	... 25 common frames omitted
+Caused by: org.apache.maven.model.building.ModelBuildingException: 1 problem was encountered while building the effective model
+[FATAL] Non-readable POM F:\Microservices\BootMsProj09-FallbackMethodWithVersion2.0: F:\Microservices\BootMsProj09-FallbackMethodWithVersion2.0 (Access is denied) @ 
+
+	at org.apache.maven.model.building.DefaultModelProblemCollector.newModelBuildingException(DefaultModelProblemCollector.java:176)
+	at org.apache.maven.model.building.DefaultModelBuilder.readModel(DefaultModelBuilder.java:600)
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:257)
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:243)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:176)
+	... 27 common frames omitted
+2026-05-07 00:27:57,208 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-FallbackMethodWithVersion2.0/src/main/resources
+2026-05-07 00:27:57,208 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-FallbackMethodWithVersion2.0/src/main/resources
+2026-05-07 00:27:57,209 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-FallbackMethodWithVersion2.0/src/test/resources
+2026-05-07 00:27:57,722 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2026-05-07 00:29:06,358 [Worker-45: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-05-07 00:29:06,451 [Worker-45: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj09-FallbackMethodWithVersion2.0:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj09-FallbackMethodWithVersion2.0\pom.xml.
+2026-05-07 00:29:06,455 [Worker-45: Updating Maven Project] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Could not read maven project
+org.eclipse.core.runtime.CoreException: Could not read maven project
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$3(MavenImpl.java:415)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:228)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readProject(MavenImpl.java:405)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.lambda$4(AbstractMavenArchiverConfigurator.java:576)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.loadParentHierarchy(AbstractMavenArchiverConfigurator.java:568)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.generateManifest(AbstractMavenArchiverConfigurator.java:365)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.mavenProjectChanged(AbstractMavenArchiverConfigurator.java:228)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.mavenProjectChanged(AbstractMavenArchiverConfigurator.java:220)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.mavenProjectChanged(ProjectConfigurationManager.java:882)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1040)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:320)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:387)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$3(ProjectConfigurationManager.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1097)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:338)
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:80)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.project.ProjectBuildingException: 1 problem was encountered while building the effective model
+[FATAL] Non-readable POM F:\Microservices\BootMsProj09-FallbackMethodWithVersion2.0: F:\Microservices\BootMsProj09-FallbackMethodWithVersion2.0 (Access is denied) @ 
+ for project  at F:\Microservices\BootMsProj09-FallbackMethodWithVersion2.0
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:180)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:123)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$3(MavenImpl.java:413)
+	... 25 common frames omitted
+Caused by: org.apache.maven.model.building.ModelBuildingException: 1 problem was encountered while building the effective model
+[FATAL] Non-readable POM F:\Microservices\BootMsProj09-FallbackMethodWithVersion2.0: F:\Microservices\BootMsProj09-FallbackMethodWithVersion2.0 (Access is denied) @ 
+
+	at org.apache.maven.model.building.DefaultModelProblemCollector.newModelBuildingException(DefaultModelProblemCollector.java:176)
+	at org.apache.maven.model.building.DefaultModelBuilder.readModel(DefaultModelBuilder.java:600)
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:257)
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:243)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:176)
+	... 27 common frames omitted
+2026-05-07 00:29:06,489 [Worker-45: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-FallbackMethodWithVersion2.0/src/main/resources
+2026-05-07 00:29:06,489 [Worker-45: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-FallbackMethodWithVersion2.0/src/main/resources
+2026-05-07 00:29:06,489 [Worker-45: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-FallbackMethodWithVersion2.0/src/test/resources
+2026-05-07 00:29:06,603 [Worker-45: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2026-05-09 15:34:56,012 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2026-05-09 23:15:14,206 [Worker-60: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj02-BillingService-ProviderMS:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj09-BillingService-ELK Stack\pom.xml.
+2026-05-09 23:15:32,391 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-09 23:15:32,442 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-09 23:15:32,451 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-BillingService-ELK Stack\src\test\resources
+2026-05-09 23:15:37,269 [Worker-61: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj02-ShoppingServiceMS-ConsumerMS:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj03-ShoppingServiceMS-ConsumerMS-ELK Stack\pom.xml.
+2026-05-09 23:15:39,808 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-09 23:15:40,178 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-09 23:15:40,186 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj03-ShoppingServiceMS-ConsumerMS-ELK Stack\src\test\resources
+2026-05-09 23:15:45,132 [Worker-63: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj01-R-DServer-EurekaServer:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj03-EurekaServer-ELK Stack\pom.xml.
+2026-05-09 23:15:59,443 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-09 23:15:59,514 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-09 23:15:59,539 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj03-EurekaServer-ELK Stack\src\test\resources
+2026-05-09 23:16:57,787 [Worker-58: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj01-R-DServer-EurekaServer:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj09-EurekaServer-ELK Stack\pom.xml.
+2026-05-09 23:17:00,412 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-09 23:17:00,696 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-09 23:17:00,701 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-EurekaServer-ELK Stack\src\test\resources
+2026-05-09 23:17:06,212 [Worker-61: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj02-ShoppingServiceMS-ConsumerMS:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj09-ShoppingServiceMS-ConsumerMS-ELK Stack\pom.xml.
+2026-05-09 23:17:08,312 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-09 23:17:08,338 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-09 23:17:08,345 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-ShoppingServiceMS-ConsumerMS-ELK Stack\src\test\resources
+2026-05-09 23:20:57,589 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-09 23:20:57,622 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-09 23:20:57,630 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-BillingService-ELK Stack\src\test\resources
+2026-05-09 23:21:17,742 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-09 23:21:17,752 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-09 23:21:17,757 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-EurekaServer-ELK Stack\src\test\resources
+2026-05-09 23:21:19,297 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-09 23:21:19,445 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-09 23:21:19,451 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-EurekaServer-ELK Stack\src\test\resources
+2026-05-09 23:21:32,999 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-09 23:21:33,016 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-09 23:21:33,021 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-ShoppingServiceMS-ConsumerMS-ELK Stack\src\test\resources
+2026-05-09 23:21:39,640 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-09 23:21:39,812 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-09 23:21:39,820 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-ShoppingServiceMS-ConsumerMS-ELK Stack\src\test\resources
+2026-05-09 23:22:40,335 [Worker-59: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj02-BillingService-ProviderMS:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj09-BillingService-ELK Stack\pom.xml.
+2026-05-09 23:22:45,227 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.46/lombok-1.18.46.pom
+2026-05-09 23:22:45,315 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.46/lombok-1.18.46.pom
+2026-05-09 23:22:45,863 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.46/lombok-1.18.46.jar
+2026-05-09 23:22:46,369 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.46/lombok-1.18.46.jar
+2026-05-09 23:22:48,962 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-09 23:22:48,964 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-09 23:22:48,978 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-BillingService-ELK Stack\src\test\resources
+2026-05-09 23:22:49,726 [Worker-67: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.46/lombok-1.18.46-sources.jar
+2026-05-09 23:22:49,907 [Worker-67: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.46/lombok-1.18.46-sources.jar
+2026-05-09 23:22:49,935 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.projectlombok:lombok:1.18.46
+2026-05-09 23:22:51,485 [Worker-73: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-05-09 23:22:52,592 [Worker-73: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj02-BillingService-ProviderMS:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj09-BillingService-ELK Stack\pom.xml.
+2026-05-09 23:22:55,738 [Worker-73: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BootMsProj09-BillingService-ELK Stack/src/main/java
+2026-05-09 23:22:55,738 [Worker-73: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-BillingService-ELK Stack/src/main/resources
+2026-05-09 23:22:55,739 [Worker-73: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-BillingService-ELK Stack/src/main/resources
+2026-05-09 23:22:55,741 [Worker-73: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BootMsProj09-BillingService-ELK Stack/src/test/java
+2026-05-09 23:22:55,741 [Worker-73: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-BillingService-ELK Stack/src/test/resources
+2026-05-09 23:22:56,796 [Worker-73: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok//lombok-.pom
+2026-05-09 23:22:56,811 [Worker-73: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.projectlombok:lombok:jar: is missing, no dependency information available
+2026-05-09 23:22:57,215 [Worker-73: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok//lombok-.jar
+2026-05-09 23:22:57,225 [Worker-73: Updating Maven Project] ERROR o.e.m.a.i.u.PluginDependencyResolver - Unable to collect dependencies for plugin
+org.eclipse.aether.resolution.DependencyResolutionException: The following artifacts could not be resolved: org.projectlombok:lombok:jar: (absent): Could not find artifact org.projectlombok:lombok:jar: in central (https://repo.maven.apache.org/maven2)
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveDependencies(DefaultRepositorySystem.java:365)
+	at org.eclipse.m2e.apt.internal.utils.PluginDependencyResolver.getResolvedPluginDependencies(PluginDependencyResolver.java:106)
+	at org.eclipse.m2e.apt.internal.compiler.MavenCompilerJdtAptDelegate.getAnnotationProcessorConfiguration(MavenCompilerJdtAptDelegate.java:172)
+	at org.eclipse.m2e.apt.internal.AbstractAptConfiguratorDelegate.configureClasspath(AbstractAptConfiguratorDelegate.java:241)
+	at org.eclipse.m2e.apt.internal.AbstractAptProjectConfigurator.lambda$1(AbstractAptProjectConfigurator.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.apt.internal.AbstractAptProjectConfigurator.configureRawClasspath(AbstractAptProjectConfigurator.java:150)
+	at org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator.invokeJavaProjectConfigurators(AbstractJavaProjectConfigurator.java:209)
+	at org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator.configure(AbstractJavaProjectConfigurator.java:167)
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:123)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$6(ProjectConfigurationManager.java:503)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:497)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$4(ProjectConfigurationManager.java:425)
+	at java.base/java.util.Collection.removeIf(Collection.java:576)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:413)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$3(ProjectConfigurationManager.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1097)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:338)
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:80)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.aether.resolution.ArtifactResolutionException: The following artifacts could not be resolved: org.projectlombok:lombok:jar: (absent): Could not find artifact org.projectlombok:lombok:jar: in central (https://repo.maven.apache.org/maven2)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:473)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:261)
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveDependencies(DefaultRepositorySystem.java:353)
+	... 27 common frames omitted
+Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find artifact org.projectlombok:lombok:jar: in central (https://repo.maven.apache.org/maven2)
+	at org.eclipse.aether.connector.basic.ArtifactTransportListener.transferFailed(ArtifactTransportListener.java:42)
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$TaskRunner.run(BasicRepositoryConnector.java:417)
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector.get(BasicRepositoryConnector.java:260)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:537)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:449)
+	... 29 common frames omitted
+2026-05-09 23:22:58,040 [Worker-73: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 3.00 sec, update config takes 2.00 sec 
+2026-05-09 23:22:59,259 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-09 23:22:59,341 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-09 23:22:59,350 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-BillingService-ELK Stack\src\test\resources
+2026-05-09 23:23:28,779 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-09 23:23:29,178 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-09 23:23:29,188 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-BillingService-ELK Stack\src\test\resources
+2026-05-09 23:25:21,300 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-09 23:25:21,403 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-09 23:25:21,407 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-BillingService-ELK Stack\src\test\resources
+2026-05-09 23:28:24,710 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-09 23:28:24,983 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-09 23:28:24,990 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-BillingService-ELK Stack\src\test\resources
+2026-05-09 23:28:35,115 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-09 23:28:35,293 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-09 23:28:35,300 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-BillingService-ELK Stack\src\test\resources
+2026-05-09 23:29:11,673 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-09 23:29:11,801 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-09 23:29:11,806 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-BillingService-ELK Stack\src\test\resources
+2026-05-09 23:29:18,534 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-09 23:29:18,912 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-09 23:29:18,924 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-BillingService-ELK Stack\src\test\resources
+2026-05-09 23:30:46,754 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-09 23:30:46,987 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-09 23:30:47,000 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-BillingService-ELK Stack\src\test\resources
+2026-05-09 23:32:26,761 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-09 23:32:28,357 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-09 23:32:28,391 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-BillingService-ELK Stack\src\test\resources
+2026-05-09 23:33:03,035 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-09 23:33:03,044 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-09 23:33:03,047 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-BillingService-ELK Stack\src\test\resources
+2026-05-09 23:34:27,375 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-09 23:34:27,460 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-09 23:34:27,466 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-BillingService-ELK Stack\src\test\resources
+2026-05-09 23:39:42,740 [Worker-81: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj01-R-DServer-EurekaServer:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj09-EurekaServer-ELK Stack\pom.xml.
+2026-05-09 23:39:48,536 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-09 23:39:48,537 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-09 23:39:48,543 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-EurekaServer-ELK Stack\src\test\resources
+2026-05-09 23:39:48,840 [Worker-81: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-05-09 23:39:49,727 [Worker-81: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj01-R-DServer-EurekaServer:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj09-EurekaServer-ELK Stack\pom.xml.
+2026-05-09 23:39:51,886 [Worker-81: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BootMsProj09-EurekaServer-ELK Stack/src/main/java
+2026-05-09 23:39:51,887 [Worker-81: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-EurekaServer-ELK Stack/src/main/resources
+2026-05-09 23:39:51,887 [Worker-81: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-EurekaServer-ELK Stack/src/main/resources
+2026-05-09 23:39:51,887 [Worker-81: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BootMsProj09-EurekaServer-ELK Stack/src/test/java
+2026-05-09 23:39:51,888 [Worker-81: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-EurekaServer-ELK Stack/src/test/resources
+2026-05-09 23:39:51,960 [Worker-81: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.projectlombok:lombok:jar: is missing, no dependency information available
+2026-05-09 23:39:51,965 [Worker-81: Updating Maven Project] ERROR o.e.m.a.i.u.PluginDependencyResolver - Unable to collect dependencies for plugin
+org.eclipse.aether.resolution.DependencyResolutionException: The following artifacts could not be resolved: org.projectlombok:lombok:jar: (absent): org.projectlombok:lombok:jar: was not found in https://repo.maven.apache.org/maven2 during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of central has elapsed or updates are forced
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveDependencies(DefaultRepositorySystem.java:365)
+	at org.eclipse.m2e.apt.internal.utils.PluginDependencyResolver.getResolvedPluginDependencies(PluginDependencyResolver.java:106)
+	at org.eclipse.m2e.apt.internal.compiler.MavenCompilerJdtAptDelegate.getAnnotationProcessorConfiguration(MavenCompilerJdtAptDelegate.java:172)
+	at org.eclipse.m2e.apt.internal.AbstractAptConfiguratorDelegate.configureClasspath(AbstractAptConfiguratorDelegate.java:241)
+	at org.eclipse.m2e.apt.internal.AbstractAptProjectConfigurator.lambda$1(AbstractAptProjectConfigurator.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.apt.internal.AbstractAptProjectConfigurator.configureRawClasspath(AbstractAptProjectConfigurator.java:150)
+	at org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator.invokeJavaProjectConfigurators(AbstractJavaProjectConfigurator.java:209)
+	at org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator.configure(AbstractJavaProjectConfigurator.java:167)
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:123)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$6(ProjectConfigurationManager.java:503)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:497)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$4(ProjectConfigurationManager.java:425)
+	at java.base/java.util.Collection.removeIf(Collection.java:576)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:413)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$3(ProjectConfigurationManager.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1097)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:338)
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:80)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.aether.resolution.ArtifactResolutionException: The following artifacts could not be resolved: org.projectlombok:lombok:jar: (absent): org.projectlombok:lombok:jar: was not found in https://repo.maven.apache.org/maven2 during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of central has elapsed or updates are forced
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:473)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:261)
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveDependencies(DefaultRepositorySystem.java:353)
+	... 27 common frames omitted
+Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: org.projectlombok:lombok:jar: was not found in https://repo.maven.apache.org/maven2 during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of central has elapsed or updates are forced
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.newException(DefaultUpdateCheckManager.java:225)
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.checkArtifact(DefaultUpdateCheckManager.java:201)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.gatherDownloads(DefaultArtifactResolver.java:586)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:525)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:449)
+	... 29 common frames omitted
+2026-05-09 23:39:51,970 [Worker-81: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 0.00 sec 
+2026-05-09 23:39:53,061 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-09 23:39:53,101 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-09 23:39:53,110 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-EurekaServer-ELK Stack\src\test\resources
+2026-05-09 23:40:36,890 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-09 23:40:36,960 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-09 23:40:36,963 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-EurekaServer-ELK Stack\src\test\resources
+2026-05-09 23:42:23,136 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-09 23:42:23,214 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-09 23:42:23,228 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-EurekaServer-ELK Stack\src\test\resources
+2026-05-09 23:43:09,653 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-09 23:43:09,696 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-09 23:43:09,701 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-EurekaServer-ELK Stack\src\test\resources
+2026-05-09 23:44:26,349 [Worker-82: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj02-ShoppingServiceMS-ConsumerMS:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj09-ShoppingServiceMS-ConsumerMS-ELK Stack\pom.xml.
+2026-05-09 23:44:30,399 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-09 23:44:30,400 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-09 23:44:30,407 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-ShoppingServiceMS-ConsumerMS-ELK Stack\src\test\resources
+2026-05-09 23:44:30,578 [Worker-82: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-05-09 23:44:31,287 [Worker-82: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj02-ShoppingServiceMS-ConsumerMS:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj09-ShoppingServiceMS-ConsumerMS-ELK Stack\pom.xml.
+2026-05-09 23:44:33,743 [Worker-82: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BootMsProj09-ShoppingServiceMS-ConsumerMS-ELK Stack/src/main/java
+2026-05-09 23:44:33,744 [Worker-82: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-ShoppingServiceMS-ConsumerMS-ELK Stack/src/main/resources
+2026-05-09 23:44:33,744 [Worker-82: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-ShoppingServiceMS-ConsumerMS-ELK Stack/src/main/resources
+2026-05-09 23:44:33,745 [Worker-82: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BootMsProj09-ShoppingServiceMS-ConsumerMS-ELK Stack/src/test/java
+2026-05-09 23:44:33,745 [Worker-82: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-ShoppingServiceMS-ConsumerMS-ELK Stack/src/test/resources
+2026-05-09 23:44:33,787 [Worker-82: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.projectlombok:lombok:jar: is missing, no dependency information available
+2026-05-09 23:44:33,790 [Worker-82: Updating Maven Project] ERROR o.e.m.a.i.u.PluginDependencyResolver - Unable to collect dependencies for plugin
+org.eclipse.aether.resolution.DependencyResolutionException: The following artifacts could not be resolved: org.projectlombok:lombok:jar: (absent): org.projectlombok:lombok:jar: was not found in https://repo.maven.apache.org/maven2 during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of central has elapsed or updates are forced
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveDependencies(DefaultRepositorySystem.java:365)
+	at org.eclipse.m2e.apt.internal.utils.PluginDependencyResolver.getResolvedPluginDependencies(PluginDependencyResolver.java:106)
+	at org.eclipse.m2e.apt.internal.compiler.MavenCompilerJdtAptDelegate.getAnnotationProcessorConfiguration(MavenCompilerJdtAptDelegate.java:172)
+	at org.eclipse.m2e.apt.internal.AbstractAptConfiguratorDelegate.configureClasspath(AbstractAptConfiguratorDelegate.java:241)
+	at org.eclipse.m2e.apt.internal.AbstractAptProjectConfigurator.lambda$1(AbstractAptProjectConfigurator.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.apt.internal.AbstractAptProjectConfigurator.configureRawClasspath(AbstractAptProjectConfigurator.java:150)
+	at org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator.invokeJavaProjectConfigurators(AbstractJavaProjectConfigurator.java:209)
+	at org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator.configure(AbstractJavaProjectConfigurator.java:167)
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:123)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$6(ProjectConfigurationManager.java:503)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:497)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$4(ProjectConfigurationManager.java:425)
+	at java.base/java.util.Collection.removeIf(Collection.java:576)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:413)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$3(ProjectConfigurationManager.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1097)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:338)
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:80)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.aether.resolution.ArtifactResolutionException: The following artifacts could not be resolved: org.projectlombok:lombok:jar: (absent): org.projectlombok:lombok:jar: was not found in https://repo.maven.apache.org/maven2 during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of central has elapsed or updates are forced
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:473)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:261)
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveDependencies(DefaultRepositorySystem.java:353)
+	... 27 common frames omitted
+Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: org.projectlombok:lombok:jar: was not found in https://repo.maven.apache.org/maven2 during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of central has elapsed or updates are forced
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.newException(DefaultUpdateCheckManager.java:225)
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.checkArtifact(DefaultUpdateCheckManager.java:201)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.gatherDownloads(DefaultArtifactResolver.java:586)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:525)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:449)
+	... 29 common frames omitted
+2026-05-09 23:44:33,816 [Worker-82: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 3.00 sec, update config takes 0.00 sec 
+2026-05-09 23:44:35,530 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-09 23:44:35,603 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-09 23:44:35,608 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-ShoppingServiceMS-ConsumerMS-ELK Stack\src\test\resources
+2026-05-09 23:44:51,073 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-09 23:44:51,105 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-09 23:44:51,110 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-ShoppingServiceMS-ConsumerMS-ELK Stack\src\test\resources
+2026-05-09 23:45:30,814 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-09 23:45:30,931 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-09 23:45:30,935 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-BillingService-ELK Stack\src\test\resources
+2026-05-09 23:46:04,506 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-09 23:46:04,517 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-09 23:46:04,520 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-BillingService-ELK Stack\src\test\resources
+2026-05-09 23:46:44,784 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-09 23:46:44,813 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-09 23:46:44,816 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-ShoppingServiceMS-ConsumerMS-ELK Stack\src\test\resources
+2026-05-09 23:47:00,230 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-09 23:47:00,286 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-09 23:47:00,291 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-ShoppingServiceMS-ConsumerMS-ELK Stack\src\test\resources
+2026-05-09 23:49:19,430 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-09 23:49:19,579 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-09 23:49:19,582 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj04-ShoppingServiceMS-ConsumerMS-FeignClient\src\test\resources
+2026-05-09 23:49:52,310 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-09 23:49:52,358 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-09 23:49:52,361 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj04-ShoppingServiceMS-ConsumerMS-FeignClient\src\test\resources
+2026-05-09 23:51:43,421 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-09 23:51:43,466 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-09 23:51:43,469 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-ShoppingServiceMS-ConsumerMS-ELK Stack\src\test\resources
+2026-05-09 23:52:00,629 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-09 23:52:00,676 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-09 23:52:00,680 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-ShoppingServiceMS-ConsumerMS-ELK Stack\src\test\resources
+2026-05-09 23:52:15,425 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-09 23:52:15,468 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-09 23:52:15,471 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-ShoppingServiceMS-ConsumerMS-ELK Stack\src\test\resources
+2026-05-09 23:52:20,906 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-09 23:52:20,919 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-09 23:52:20,923 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-ShoppingServiceMS-ConsumerMS-ELK Stack\src\test\resources
+2026-05-09 23:53:06,066 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-09 23:53:06,073 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-09 23:53:06,078 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-ShoppingServiceMS-ConsumerMS-ELK Stack\src\test\resources
+2026-05-09 23:53:34,236 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-09 23:53:34,285 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-09 23:53:34,291 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-ShoppingServiceMS-ConsumerMS-ELK Stack\src\test\resources
+2026-05-09 23:53:49,528 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-09 23:53:49,569 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-09 23:53:49,584 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-ShoppingServiceMS-ConsumerMS-ELK Stack\src\test\resources
+2026-05-09 23:54:28,493 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-09 23:54:28,509 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-09 23:54:28,512 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-ShoppingServiceMS-ConsumerMS-ELK Stack\src\test\resources
+2026-05-09 23:55:00,766 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-09 23:55:00,773 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-09 23:55:00,775 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-ShoppingServiceMS-ConsumerMS-ELK Stack\src\test\resources
+2026-05-09 23:55:24,858 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-09 23:55:24,863 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-09 23:55:24,865 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-ShoppingServiceMS-ConsumerMS-ELK Stack\src\test\resources
+2026-05-09 23:56:07,077 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-09 23:56:07,088 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-09 23:56:07,092 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-ShoppingServiceMS-ConsumerMS-ELK Stack\src\test\resources
+2026-05-09 23:56:34,719 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-09 23:56:34,748 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-09 23:56:34,751 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-EurekaServer-ELK Stack\src\test\resources
+2026-05-10 00:57:39,452 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-10 00:57:39,722 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-10 00:57:39,727 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-ShoppingServiceMS-ConsumerMS-ELK Stack\src\test\resources
+2026-05-10 00:57:49,045 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-10 00:57:49,092 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-10 00:57:49,096 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-ShoppingServiceMS-ConsumerMS-ELK Stack\src\test\resources
+2026-05-10 00:58:07,892 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-10 00:58:08,020 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-10 00:58:08,029 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-ShoppingServiceMS-ConsumerMS-ELK Stack\src\test\resources
+2026-05-10 01:00:18,918 [Worker-96: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-05-10 01:00:20,398 [Worker-96: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj02-BillingService-ProviderMS:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj09-BillingService-ELK Stack\pom.xml.
+2026-05-10 01:00:27,233 [Worker-96: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BootMsProj09-BillingService-ELK Stack/src/main/java
+2026-05-10 01:00:27,235 [Worker-96: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-BillingService-ELK Stack/src/main/resources
+2026-05-10 01:00:27,236 [Worker-96: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-BillingService-ELK Stack/src/main/resources
+2026-05-10 01:00:27,236 [Worker-96: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BootMsProj09-BillingService-ELK Stack/src/test/java
+2026-05-10 01:00:27,237 [Worker-96: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-BillingService-ELK Stack/src/test/resources
+2026-05-10 01:00:27,618 [Worker-96: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok//lombok-.pom
+2026-05-10 01:00:27,623 [Worker-96: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.projectlombok:lombok:jar: is missing, no dependency information available
+2026-05-10 01:00:27,824 [Worker-96: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok//lombok-.jar
+2026-05-10 01:00:27,827 [Worker-96: Updating Maven Project] ERROR o.e.m.a.i.u.PluginDependencyResolver - Unable to collect dependencies for plugin
+org.eclipse.aether.resolution.DependencyResolutionException: The following artifacts could not be resolved: org.projectlombok:lombok:jar: (absent): Could not find artifact org.projectlombok:lombok:jar: in central (https://repo.maven.apache.org/maven2)
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveDependencies(DefaultRepositorySystem.java:365)
+	at org.eclipse.m2e.apt.internal.utils.PluginDependencyResolver.getResolvedPluginDependencies(PluginDependencyResolver.java:106)
+	at org.eclipse.m2e.apt.internal.compiler.MavenCompilerJdtAptDelegate.getAnnotationProcessorConfiguration(MavenCompilerJdtAptDelegate.java:172)
+	at org.eclipse.m2e.apt.internal.AbstractAptConfiguratorDelegate.configureClasspath(AbstractAptConfiguratorDelegate.java:241)
+	at org.eclipse.m2e.apt.internal.AbstractAptProjectConfigurator.lambda$1(AbstractAptProjectConfigurator.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.apt.internal.AbstractAptProjectConfigurator.configureRawClasspath(AbstractAptProjectConfigurator.java:150)
+	at org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator.invokeJavaProjectConfigurators(AbstractJavaProjectConfigurator.java:209)
+	at org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator.configure(AbstractJavaProjectConfigurator.java:167)
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:123)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$6(ProjectConfigurationManager.java:503)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:497)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$4(ProjectConfigurationManager.java:425)
+	at java.base/java.util.Collection.removeIf(Collection.java:576)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:413)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$3(ProjectConfigurationManager.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1097)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:338)
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:80)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.aether.resolution.ArtifactResolutionException: The following artifacts could not be resolved: org.projectlombok:lombok:jar: (absent): Could not find artifact org.projectlombok:lombok:jar: in central (https://repo.maven.apache.org/maven2)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:473)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:261)
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveDependencies(DefaultRepositorySystem.java:353)
+	... 27 common frames omitted
+Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find artifact org.projectlombok:lombok:jar: in central (https://repo.maven.apache.org/maven2)
+	at org.eclipse.aether.connector.basic.ArtifactTransportListener.transferFailed(ArtifactTransportListener.java:42)
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$TaskRunner.run(BasicRepositoryConnector.java:417)
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector.get(BasicRepositoryConnector.java:260)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:537)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:449)
+	... 29 common frames omitted
+2026-05-10 01:00:27,831 [Worker-96: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 7.00 sec, update config takes 0.00 sec 
+2026-05-10 01:00:29,629 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-10 01:00:29,713 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-10 01:00:29,725 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-BillingService-ELK Stack\src\test\resources
+2026-05-10 01:01:58,909 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-10 01:01:59,054 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-10 01:01:59,063 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-ShoppingServiceMS-ConsumerMS-ELK Stack\src\test\resources
+2026-05-10 01:02:07,611 [Worker-107: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-05-10 01:02:08,330 [Worker-107: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj02-ShoppingServiceMS-ConsumerMS:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj09-ShoppingServiceMS-ConsumerMS-ELK Stack\pom.xml.
+2026-05-10 01:02:10,308 [Worker-107: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BootMsProj09-ShoppingServiceMS-ConsumerMS-ELK Stack/src/main/java
+2026-05-10 01:02:10,308 [Worker-107: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-ShoppingServiceMS-ConsumerMS-ELK Stack/src/main/resources
+2026-05-10 01:02:10,308 [Worker-107: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-ShoppingServiceMS-ConsumerMS-ELK Stack/src/main/resources
+2026-05-10 01:02:10,309 [Worker-107: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BootMsProj09-ShoppingServiceMS-ConsumerMS-ELK Stack/src/test/java
+2026-05-10 01:02:10,309 [Worker-107: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-ShoppingServiceMS-ConsumerMS-ELK Stack/src/test/resources
+2026-05-10 01:02:10,367 [Worker-107: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.projectlombok:lombok:jar: is missing, no dependency information available
+2026-05-10 01:02:10,434 [Worker-107: Updating Maven Project] ERROR o.e.m.a.i.u.PluginDependencyResolver - Unable to collect dependencies for plugin
+org.eclipse.aether.resolution.DependencyResolutionException: The following artifacts could not be resolved: org.projectlombok:lombok:jar: (absent): org.projectlombok:lombok:jar: was not found in https://repo.maven.apache.org/maven2 during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of central has elapsed or updates are forced
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveDependencies(DefaultRepositorySystem.java:365)
+	at org.eclipse.m2e.apt.internal.utils.PluginDependencyResolver.getResolvedPluginDependencies(PluginDependencyResolver.java:106)
+	at org.eclipse.m2e.apt.internal.compiler.MavenCompilerJdtAptDelegate.getAnnotationProcessorConfiguration(MavenCompilerJdtAptDelegate.java:172)
+	at org.eclipse.m2e.apt.internal.AbstractAptConfiguratorDelegate.configureClasspath(AbstractAptConfiguratorDelegate.java:241)
+	at org.eclipse.m2e.apt.internal.AbstractAptProjectConfigurator.lambda$1(AbstractAptProjectConfigurator.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.apt.internal.AbstractAptProjectConfigurator.configureRawClasspath(AbstractAptProjectConfigurator.java:150)
+	at org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator.invokeJavaProjectConfigurators(AbstractJavaProjectConfigurator.java:209)
+	at org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator.configure(AbstractJavaProjectConfigurator.java:167)
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:123)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$6(ProjectConfigurationManager.java:503)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:497)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$4(ProjectConfigurationManager.java:425)
+	at java.base/java.util.Collection.removeIf(Collection.java:576)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:413)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$3(ProjectConfigurationManager.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1097)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:338)
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:80)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.aether.resolution.ArtifactResolutionException: The following artifacts could not be resolved: org.projectlombok:lombok:jar: (absent): org.projectlombok:lombok:jar: was not found in https://repo.maven.apache.org/maven2 during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of central has elapsed or updates are forced
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:473)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:261)
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveDependencies(DefaultRepositorySystem.java:353)
+	... 27 common frames omitted
+Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: org.projectlombok:lombok:jar: was not found in https://repo.maven.apache.org/maven2 during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of central has elapsed or updates are forced
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.newException(DefaultUpdateCheckManager.java:225)
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.checkArtifact(DefaultUpdateCheckManager.java:201)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.gatherDownloads(DefaultArtifactResolver.java:586)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:525)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:449)
+	... 29 common frames omitted
+2026-05-10 01:02:10,464 [Worker-107: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 0.00 sec 
+2026-05-10 01:02:12,056 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-10 01:02:12,108 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-10 01:02:12,113 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-ShoppingServiceMS-ConsumerMS-ELK Stack\src\test\resources
+2026-05-10 01:02:35,911 [Worker-98: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-05-10 01:02:36,539 [Worker-98: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BootMsProj01-R-DServer-EurekaServer:0.0.1-SNAPSHOT @ F:\Microservices\BootMsProj09-EurekaServer-ELK Stack\pom.xml.
+2026-05-10 01:02:38,337 [Worker-98: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BootMsProj09-EurekaServer-ELK Stack/src/main/java
+2026-05-10 01:02:38,337 [Worker-98: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-EurekaServer-ELK Stack/src/main/resources
+2026-05-10 01:02:38,337 [Worker-98: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-EurekaServer-ELK Stack/src/main/resources
+2026-05-10 01:02:38,338 [Worker-98: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BootMsProj09-EurekaServer-ELK Stack/src/test/java
+2026-05-10 01:02:38,338 [Worker-98: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootMsProj09-EurekaServer-ELK Stack/src/test/resources
+2026-05-10 01:02:38,454 [Worker-98: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.projectlombok:lombok:jar: is missing, no dependency information available
+2026-05-10 01:02:38,544 [Worker-98: Updating Maven Project] ERROR o.e.m.a.i.u.PluginDependencyResolver - Unable to collect dependencies for plugin
+org.eclipse.aether.resolution.DependencyResolutionException: The following artifacts could not be resolved: org.projectlombok:lombok:jar: (absent): org.projectlombok:lombok:jar: was not found in https://repo.maven.apache.org/maven2 during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of central has elapsed or updates are forced
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveDependencies(DefaultRepositorySystem.java:365)
+	at org.eclipse.m2e.apt.internal.utils.PluginDependencyResolver.getResolvedPluginDependencies(PluginDependencyResolver.java:106)
+	at org.eclipse.m2e.apt.internal.compiler.MavenCompilerJdtAptDelegate.getAnnotationProcessorConfiguration(MavenCompilerJdtAptDelegate.java:172)
+	at org.eclipse.m2e.apt.internal.AbstractAptConfiguratorDelegate.configureClasspath(AbstractAptConfiguratorDelegate.java:241)
+	at org.eclipse.m2e.apt.internal.AbstractAptProjectConfigurator.lambda$1(AbstractAptProjectConfigurator.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.apt.internal.AbstractAptProjectConfigurator.configureRawClasspath(AbstractAptProjectConfigurator.java:150)
+	at org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator.invokeJavaProjectConfigurators(AbstractJavaProjectConfigurator.java:209)
+	at org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator.configure(AbstractJavaProjectConfigurator.java:167)
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:123)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$6(ProjectConfigurationManager.java:503)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:497)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$4(ProjectConfigurationManager.java:425)
+	at java.base/java.util.Collection.removeIf(Collection.java:576)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:413)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$3(ProjectConfigurationManager.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1097)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:338)
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:80)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.aether.resolution.ArtifactResolutionException: The following artifacts could not be resolved: org.projectlombok:lombok:jar: (absent): org.projectlombok:lombok:jar: was not found in https://repo.maven.apache.org/maven2 during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of central has elapsed or updates are forced
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:473)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:261)
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveDependencies(DefaultRepositorySystem.java:353)
+	... 27 common frames omitted
+Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: org.projectlombok:lombok:jar: was not found in https://repo.maven.apache.org/maven2 during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of central has elapsed or updates are forced
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.newException(DefaultUpdateCheckManager.java:225)
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.checkArtifact(DefaultUpdateCheckManager.java:201)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.gatherDownloads(DefaultArtifactResolver.java:586)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:525)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:449)
+	... 29 common frames omitted
+2026-05-10 01:02:38,578 [Worker-98: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 0.00 sec 
+2026-05-10 01:02:41,627 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-10 01:02:41,653 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-10 01:02:41,660 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-EurekaServer-ELK Stack\src\test\resources
+2026-05-10 02:10:37,817 [Worker-133: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-10 02:10:38,662 [Worker-133: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-10 02:10:38,693 [Worker-133: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-BillingService-ELK Stack\src\test\resources
+2026-05-10 02:11:06,315 [Worker-134: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-10 02:11:06,591 [Worker-134: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-10 02:11:06,663 [Worker-134: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-BillingService-ELK Stack\src\test\resources
+2026-05-10 02:11:50,119 [Worker-133: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-10 02:11:50,197 [Worker-133: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-10 02:11:50,317 [Worker-133: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-EurekaServer-ELK Stack\src\test\resources
+2026-05-10 02:12:02,343 [Worker-137: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-10 02:12:02,380 [Worker-137: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-10 02:12:02,385 [Worker-137: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-ShoppingServiceMS-ConsumerMS-ELK Stack\src\test\resources
+2026-05-10 02:15:21,363 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-05-10 02:15:21,660 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-05-10 02:15:21,681 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Microservices\BootMsProj09-BillingService-ELK Stack\src\test\resources
